@@ -31,7 +31,14 @@ Znaczy [pull requestów](https://github.com/piecioshka/polski-w-korpo/pulls), ni
 | milestone                            |          |        |
 | sub headline                         |          |        |
 | target                               |          |        |
-| TBC (to be continue / to be confirm) |          |        |
+| TBC (to be continued / to be confirm)|          |        |
+| TBD (to be determined)               |          |        |
+| FWIW (for what is worth)             |          |        |
+| PTAL (please take a look)            |          |        |
+| PTO (paid time off)                  |          |        |
+| AFAIK (as far as I know)             |          |        |
+| IIRC (if I recall correctly)         |          |        |
+| PSA (public service announcement)    |          |        |
 
 * _n_ - rzeczownik
 * _v_ - czasownik
