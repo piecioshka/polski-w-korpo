@@ -42,3 +42,7 @@ Znaczy [pull requestów](https://github.com/piecioshka/polski-w-korpo/pulls), ni
 
 * _n_ - rzeczownik
 * _v_ - czasownik
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
